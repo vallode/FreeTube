@@ -40,6 +40,7 @@
       :list="idDataList"
       class="ft-input"
       type="text"
+      ref="input"
       :placeholder="placeholder"
       :disabled="disabled"
       :spellcheck="spellcheck"
